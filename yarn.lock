@@ -5659,6 +5659,11 @@ react-native-camera@^4.2.1:
   dependencies:
     prop-types "^15.6.2"
 
+react-native-image-picker@^2.3.3:
+  version "2.3.3"
+  resolved "https://registry.npmjs.org/react-native-image-picker/-/react-native-image-picker-2.3.3.tgz"
+  integrity sha512-i/7JDnxKkUGSbFY2i7YqFNn3ncJm1YlcrPKXrXmJ/YUElz8tHkuwknuqBd9QCJivMfHX41cmq4XvdBDwIOtO+A==
+
 react-native@*, react-native@>=0.59, react-native@0.72.1:
   version "0.72.1"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.72.1.tgz"
